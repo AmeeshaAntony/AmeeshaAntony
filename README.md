@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameeshaantony" alt="ameeshaantony" /></a> </p>
 
-- 🔭 I’m currently working on **React JS Projects**
+- 🔭 I’m currently working on **MERN Projects**
 
 - 🌱 I’m currently learning **Node JS**
 
-- 💬 Ask me about **React,Python Django,HTML,CSS ,Java, C**
+- 💬 Ask me about **Node JS,React,Python Django,HTML,CSS ,Java, C**
 
 - 📫 How to reach me **ameesha468@gmail.comm**
 
