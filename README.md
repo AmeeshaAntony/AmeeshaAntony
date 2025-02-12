@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameeshaantony" alt="ameeshaantony" /></a> </p>
 
-- 🔭 I’m currently working on **Angular Projects**
+- 🔭 I’m currently working on **ML Projects**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **ML**
 
 - 💬 Ask me about **MERN STACK,Dart,Python Django,HTML,CSS ,Java, C**
 
