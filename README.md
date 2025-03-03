@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **ML**
 
-- 💬 Ask me about **MERN STACK,Dart,Python Django,HTML,CSS ,Java, C**
+- 💬 Ask me about **MERN STACK,Dart,Python (Django,Flask),HTML,CSS ,Java, C**
 
 - 📫 How to reach me **ameesha468@gmail.comm**
 
